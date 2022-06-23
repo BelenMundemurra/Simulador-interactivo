@@ -25,7 +25,7 @@ if (combo=="1") {
     valor= 500;
     precio = calcularPrecio(valor, cantidad);
 } else {
-    torta = torta + "chocolate";
+    torta = torta + "vainilla";
     valor = 350;
     precio = calcularPrecio(valor, cantidad);
 }
